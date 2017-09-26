@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>易网时代OA系统 - Powered By 小策一喋</title>
-    <meta name="Keywords" content="易网时代OA系统 - Powered By 小策一喋"/>
+    <title>管理信息系统</title>
+    <meta name="Keywords" content="管理信息系统 "/>
     <%@ include file="App/Common/Common/intoHead.jsp" %>
 </head>
 
